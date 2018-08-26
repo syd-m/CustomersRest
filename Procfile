@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* com.imcs.syed.rest.heroku.Main
